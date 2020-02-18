@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948139758265",
+    "firebase_url": "https://test-fcc7c.firebaseio.com",
+    "project_id": "test-fcc7c",
+    "storage_bucket": "test-fcc7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948139758265:android:81281b0fedf83ef3bd8168",
+        "android_client_info": {
+          "package_name": "com.goodroadbook.firebasestart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948139758265-1e9pqlrsskfh80a2dp03804eftp4ojgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2yQ1UlzrXxAv3Rrj7rWJnjUL0GJ4Lv88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948139758265-1e9pqlrsskfh80a2dp03804eftp4ojgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
